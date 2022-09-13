@@ -1,0 +1,100 @@
+.sub {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid rgb(192, 197, 245);
+}
+.add {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid rgb(192, 197, 245);
+}
+main {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+.table2{
+    width: 1000px ; 
+    height: auto;
+    border-collapse: collapse;
+    
+}
+.tr_line td{
+    border-bottom: 3px #e8eaee solid;
+}
+.div1{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+.div3{
+    background-color: #f8f8f8;
+}
+.t1{
+    color: #576779;
+    font-size: 15px;
+    font-weight: bold;
+}
+.t2{
+    font-size: 15px;
+    color: #576779;
+}
+.t3{
+    font-size: 15px;
+    color: #bec9d0;
+}
+.t4{
+    color:#9aaec9;
+    font-size: 20px;
+}
+.t5{
+    color:#9fa3bf;
+    font-size: 20px;
+}
+.t6{
+    color:#576779;
+    font-weight: bold;
+    font-size: 25px;
+}
+.table1{
+    /*vertical-align: top;*/
+    text-align: left;
+}
+a{
+    text-decoration:none;
+}
+.button1{
+    width: 180px;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #dbe1e6;
+}
+.button2{
+    width: 250px;
+    height: 40px;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #909ad0;
+}
+.logo{
+    width: 1126px;
+    height: 80px;
+    background-color: #576779;
+}
+.logo_right{
+    width: 182px;
+    height: 80px;
+    background-color: #909ad0;
+}
+#app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
